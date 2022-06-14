@@ -42,4 +42,7 @@
 ---
 + 프로젝트 기획, 개발 환경 구축
 + 데이터 베이스 설계도 ![설계도](https://github.com/ParkSolchan/StackUs/blob/main/STACKUS%20ERD.png)
-
++ 게시판 구현
++ __클래스__ 시스템 구현
++ 마이페이지 구현
++ __CBT(기출문제 은행)__ 시스템 구현
